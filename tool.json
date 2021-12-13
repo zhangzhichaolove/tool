@@ -1,0 +1,10 @@
+[
+  {
+    "key": "运行调试服务",
+    "value": "npm start"
+  },
+  {
+    "key": "app编译",
+    "value": "cd android && ./gradlew assembleRelease && open app/build/outputs/apk/release"
+  }
+]
